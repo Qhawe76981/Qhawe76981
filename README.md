@@ -1,37 +1,36 @@
-👋 Hi, I'm Qhawe Mngomeni
-Aspiring SOC Analyst & Ethical Hacker | BSc Computer Science | 
-Ethical Hacking · CCNA · Linux · PHP · Python | Seeking Entry-Level Role
+# 👋 Hi, I'm Qhawe Mngomeni
 
-📍 Based in Pretoria | University of Limpopo (Turfloop Campus) — Final Year
+**Aspiring SOC Analyst & Ethical Hacker | BSc Computer Science | Seeking Entry-Level Role**
 
-I'm passionate about protecting digital assets and understanding how 
-systems work under the hood. Currently building hands-on skills in 
-ethical hacking, network security, and Linux through real lab environments.
+📍 Pretoria | University of Limpopo (Turfloop Campus) — Final Year
+
+I'm passionate about protecting digital assets and understanding how systems work under the hood. Currently building hands-on skills in ethical hacking, network security, and Linux through real lab environments.
 
 ---
 
-🔐 Cybersecurity Journey
+## 🔐 Cybersecurity Journey
 
-Networking: CCNA pathway · Cisco Packet Tracer
-Hands-on Labs: Kali Linux · Nmap · Gobuster · VirtualBox
-Practice Platforms: TryHackMe · Cisco Academy · Udemy
-Environment: Kali Linux · Linux CLI
-Goal: SOC Analyst → Cybersecurity Analyst
-
----
-
-💻 Technical Skills
-
-Category         | Technologies
-Languages        | PHP · JavaScript · Python · C++
-Operating Systems| Kali Linux · Windows
-Networking       | CCNA (in progress) · TCP/IP · DNS · Packet Tracer
-Security Tools   | Nmap · Gobuster · Metasploit (learning)
-Dev Tools        | Git · GitHub · Terminal/CLI · XAMPP
+- **Networking:** CCNA pathway · Cisco Packet Tracer
+- **Hands-on Labs:** Kali Linux · Nmap · Gobuster · VirtualBox
+- **Practice Platforms:** TryHackMe · Cisco Academy · Udemy
+- **Environment:** Kali Linux · Linux CLI
+- **Goal:** SOC Analyst → Cybersecurity Analyst
 
 ---
 
-🎓 Currently Learning
+## 💻 Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | PHP · JavaScript · Python · C++ |
+| Operating Systems | Kali Linux · Windows |
+| Networking | CCNA (in progress) · TCP/IP · DNS · Packet Tracer |
+| Security Tools | Nmap · Gobuster · Metasploit (learning) |
+| Dev Tools | Git · GitHub · Terminal/CLI · XAMPP |
+
+---
+
+## 🎓 Currently Learning
 
 - Ethical hacking and penetration testing methodology
 - Network scanning and enumeration (Nmap · Gobuster)
@@ -41,31 +40,33 @@ Dev Tools        | Git · GitHub · Terminal/CLI · XAMPP
 
 ---
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-🔒 cybersecurity-lab-notes
-Hands-on ethical hacking lab — Kali Linux attacking Windows 10 
-in an isolated VirtualBox environment. Tools: Nmap · Gobuster.
+### 🔒 [cybersecurity-lab-notes](https://github.com/QhaweMngomeni/cybersecurity-lab-notes)
+Hands-on ethical hacking lab — Kali Linux attacking Windows 10 in an isolated VirtualBox environment.  
+**Tools:** Nmap · Gobuster · Kali Linux
 
-🌐 BazzarLink
-Local food ordering web app for townships (kotas & fat cakes).
-Built as a team project.
-
----
-
-📫 Connect With Me
-
-Email: ntokozoc2001@gmail.com
-LinkedIn: linkedin.com/in/ntokozo-mngomeni-38b6412b3
-GitHub: github.com/QhaweMngomeni
-📍 Pretoria (home) · University of Limpopo (studies)
+### 🌐 [BazzarLink](https://github.com/Boitumelo-09/BizzarLink-web-app-project)
+Local food ordering web app for townships (kotas & fat cakes). Built as a team project.  
+**Tools:** PHP · MySQL · JavaScript
 
 ---
 
-🤝 Let's Connect
+## 📫 Connect With Me
 
-I'm actively looking to learn from experienced professionals in 
-cybersecurity and tech. Open to mentorship, collaboration, and 
-entry-level opportunities.
+🔗 [LinkedIn](https://www.linkedin.com/in/ntokozo-mngomeni-38b6412b3)
 
-"Security is not a product, but a process." — Bruce Schneier
+📧 [ntokozoc2001@gmail.com](mailto:ntokozoc2001@gmail.com)
+
+🐙 [GitHub](https://github.com/QhaweMngomeni)
+
+🎵 [TikTok — @qhawes.ntokozo](https://www.tiktok.com/@qhawes.ntokozo)
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking to learn from experienced professionals in cybersecurity and tech.  
+Open to mentorship, collaboration, and entry-level opportunities.
+
+> *"Security is not a product, but a process." — Bruce Schneier*
