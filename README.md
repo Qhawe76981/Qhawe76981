@@ -1,62 +1,71 @@
-# 👋 Hi, I'm Ntokozo Mngomeni (Qhawe76981)
+👋 Hi, I'm Qhawe Mngomeni
+Aspiring SOC Analyst & Ethical Hacker | BSc Computer Science | 
+Ethical Hacking · CCNA · Linux · PHP · Python | Seeking Entry-Level Role
 
-*Aspiring Cybersecurity Analyst | BSc Computer Science | Ethical Hacking · CCNA · Linux · PHP · Python | Seeking Entry-Level Role @ University of Limpopo*
+📍 Based in Pretoria | University of Limpopo (Turfloop Campus) — Final Year
 
-📍 Based in Pretoria | Currently at University of Limpopo (Turfloop Campus)
-
-I'm passionate about protecting digital assets and understanding how systems work under the hood. Currently building a strong foundation in networking, Linux, and security fundamentals.
-
----
-
-## 🔐 Cybersecurity Journey
-
-- *Networking:* Cisco Packet Tracer · CCNA pathway
-- *Hands-on practice:* TryHackMe · Cisco Academy · Udemy
-- *Environment:* Parrot OS Linux terminal
-- *Goal:* Red Team / Security Analyst
+I'm passionate about protecting digital assets and understanding how 
+systems work under the hood. Currently building hands-on skills in 
+ethical hacking, network security, and Linux through real lab environments.
 
 ---
 
-## 💻 Technical Skills
+🔐 Cybersecurity Journey
 
-| Category | Technologies |
-|----------|--------------|
-| *Languages* | C++ · JavaScript · Python (learning) |
-| *Operating Systems* | Linux (Parrot OS) · Windows |
-| *Networking* | Packet Tracer · Network fundamentals |
-| *Tools* | Git · GitHub · Terminal/CLI |
-
----
-
-## 🎓 Currently Learning
-
-- Python for automation & security scripting
-- Linux privilege escalation & command line mastery
-- Network security fundamentals
-- Web application security basics
+Networking: CCNA pathway · Cisco Packet Tracer
+Hands-on Labs: Kali Linux · Nmap · Gobuster · VirtualBox
+Practice Platforms: TryHackMe · Cisco Academy · Udemy
+Environment: Kali Linux · Linux CLI
+Goal: SOC Analyst → Cybersecurity Analyst
 
 ---
 
-## 📌 Featured Project
+💻 Technical Skills
 
-**[SmartCampus-240035420](https://github.com/Qhawe76981/SmartCampus-240035420)**  
-Java-based Student Management System (Course Registration, Hostel, Library modules)
-
----
-
-## 📫 Connect With Me
-
-- *Email:* ntokozoc2001@gmail.com
-- *LinkedIn:* [linkedin.com/in/ntokozo-mngomeni-38b6412b3](https://www.linkedin.com/in/ntokozo-mngomeni-38b6412b3)
-- *TikTok:* [@qhawes.ntokozo](https://www.tiktok.com/@qhawes.ntokozo)
-- *GitHub:* [github.com/Qhawe76981](https://github.com/Qhawe76981)
-
-📍 Pretoria (home) · University of Limpopo (current)
+Category         | Technologies
+Languages        | PHP · JavaScript · Python · C++
+Operating Systems| Kali Linux · Windows
+Networking       | CCNA (in progress) · TCP/IP · DNS · Packet Tracer
+Security Tools   | Nmap · Gobuster · Metasploit (learning)
+Dev Tools        | Git · GitHub · Terminal/CLI · XAMPP
 
 ---
 
-## 🤝 Let's Connect
+🎓 Currently Learning
 
-I'm actively looking to learn from experienced professionals in tech and cybersecurity. Open to mentorship, collaboration, and entry-level opportunities.
+- Ethical hacking and penetration testing methodology
+- Network scanning and enumeration (Nmap · Gobuster)
+- Linux privilege escalation and command line mastery
+- Network security fundamentals (CCNA)
+- SOC operations and threat detection
 
-> "Keen to learn, committed to grow, and ready to contribute."
+---
+
+📌 Featured Projects
+
+🔒 cybersecurity-lab-notes
+Hands-on ethical hacking lab — Kali Linux attacking Windows 10 
+in an isolated VirtualBox environment. Tools: Nmap · Gobuster.
+
+🌐 BazzarLink
+Local food ordering web app for townships (kotas & fat cakes).
+Built as a team project.
+
+---
+
+📫 Connect With Me
+
+Email: ntokozoc2001@gmail.com
+LinkedIn: linkedin.com/in/ntokozo-mngomeni-38b6412b3
+GitHub: github.com/QhaweMngomeni
+📍 Pretoria (home) · University of Limpopo (studies)
+
+---
+
+🤝 Let's Connect
+
+I'm actively looking to learn from experienced professionals in 
+cybersecurity and tech. Open to mentorship, collaboration, and 
+entry-level opportunities.
+
+"Security is not a product, but a process." — Bruce Schneier
