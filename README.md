@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ntokozo Cyril Mngomeni
+### 👋 Hi, I'm NTOKOZO Cyril Mngomeni
 **Aspiring SOC Analyst & Ethical Hacker | BSc Computer Science | Seeking Entry-Level Role**
 
 📍 Pretoria | University of Limpopo (Turfloop Campus) — Final Year
